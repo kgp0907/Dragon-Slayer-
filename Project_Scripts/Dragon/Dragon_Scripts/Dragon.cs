@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.AI;
 using System.Linq;
 public class Dragon : MonoBehaviour
-{  public enum EnemyState
+{  public enum EnemyState 
     {
         PATROL,
         CHASE,   
@@ -126,5 +126,6 @@ public class Dragon : MonoBehaviour
     public bool IsState(EnemyState state)
     {
         return e_sm.CurState == e_states[state];
+        
     }
 }
