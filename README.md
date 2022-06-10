@@ -15,4 +15,4 @@ Unity로 제작된 HDRP 액션 RPG 포트폴리오입니다.
     
  영상  링크 : https://youtu.be/uoTkqpJIS4w
 
-기술서 링크 : https://drive.google.com/file/d/10dzhJ2CkOMCR1NTLL2aN4NdvEqrSIvZX/view?usp=sharing
+기술서 링크 : https://url.kr/8m3lgk
